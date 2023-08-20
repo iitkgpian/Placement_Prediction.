@@ -1,0 +1,154 @@
+Timestamp,GENDER,BRANCH,CGPA,ACTIVE BACKLOG,RATE YOUR COMMUNICATION SKILL,RATE YOUR CODING SKILL,RATE YOUR APTITUDE SKILLS,APPLIED PROFILE,Have you done project related to applied profile?,Have you done Internship related to applied profile?,Paced or Not Placed,Annual CTC (in Lacks)
+2/27/2023 21:08,Male,Computer Science and Data Processing,9,No,7,3,7,DATA SCIENTIST/ANALYST,Yes,No,No,
+2/27/2023 21:34,Female,Ece,8.68,No,7,5,8,CORE,Yes,No,Yes,more than 25
+2/27/2023 21:36,Male,Mechanical engineering ,8.34,No,7,5,7,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,No,
+2/27/2023 21:40,Male,Wireless communication and networks,8.79,No,5,4,6,CORE,No,No,Yes,15-Oct
+2/27/2023 21:41,Male,Computer science engineering ,7.58,No,9,9,10,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,15-20
+2/27/2023 21:44,Male,Infrastructure Design & Management,8.5,Yes,10,10,10,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-Oct
+2/27/2023 21:44,Male,MECHANICAL ENGINEERING ,8.5,No,5,5,8,CORE,Yes,Yes,No,15-Oct
+2/27/2023 21:44,Male,Steve Jobs,10,No,10,10,10,"SDE, DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,No,less than 10
+2/27/2023 21:45,Male,M.Tech in Computer Science and Data Processing ,8.1,No,9,8,8,SDE,Yes,No,Yes,20-25
+2/27/2023 21:46,Male,AGFE (FMP),8.77,No,7,5,8,CORE,Yes,Yes,Yes,15-20
+2/27/2023 21:49,Male,Electronics ,7.58,No,8,8,9,"SDE, DATA SCIENTIST/ANALYST",Yes,No,No,15-Oct
+2/27/2023 21:50,Male,Food process engineering,8.64,No,7,5,6,"DATA SCIENTIST/ANALYST, CORE",No,No,No,
+2/27/2023 21:54,Male,Transportation Engineering,9.33,No,7,7,6,"DATA SCIENTIST/ANALYST, CORE",Yes,No,No,
+2/27/2023 21:55,Male,Coral,9.4,No,8,9,8,"DATA SCIENTIST/ANALYST, CORE",Yes,No,No,
+2/27/2023 21:57,Male,Computer Science and Engineering,8.12,No,9,9,9,"SDE, DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,Yes,15-20
+2/27/2023 21:59,Male,Management ,8.5,No,7,4,6,"DATA SCIENTIST/ANALYST, MANAGEMENT",Yes,Yes,No,less than 10
+2/27/2023 22:02,Male,CSDP,8.38,No,7,3,6,SDE,Yes,No,Yes,15-Oct
+2/27/2023 22:02,Male,E&ECE,6.87,No,7,5,7,CORE,Yes,No,No,15-20
+2/27/2023 22:03,Male,ECE,9.68,No,7,3,4,CORE,No,No,Yes,20-25
+2/27/2023 22:11,Male,Computer Science and Data Processing ,8.6,No,8,7,5,SDE,No,No,Yes,more than 25
+2/27/2023 22:32,Male,Agfe,8.66,No,8,8,7,"DATA SCIENTIST/ANALYST, CORE",Yes,No,No,15-Oct
+2/27/2023 22:45,Male,Civil (Spl: Structural ) Engineering,7.54,No,3,2,7,CORE,Yes,Yes,Yes,less than 10
+2/27/2023 23:27,Male,ECE,8.6,No,9,8,8,CORE,Yes,No,Yes,15-20
+2/28/2023 0:42,Female,Electrical engineering ,9,No,6,8,8,"DATA SCIENTIST/ANALYST, CORE",Yes,No,Yes,20-25
+2/28/2023 1:00,Male,Civil engineering ,8.5,No,8,5,9,CORE,Yes,Yes,No,less than 10
+2/28/2023 1:21,Male,Water engineering and management ,8.36,No,1,4,4,SDE,No,No,No,less than 10
+2/28/2023 7:06,Male,CORAL,7.3,No,7,5,7,DATA SCIENTIST/ANALYST,Yes,No,No,
+2/28/2023 8:03,Male,E&ECE,8.55,No,8,6,8,CORE,Yes,No,Yes,15-Oct
+2/28/2023 8:16,Male,M.tech Manufacturing ,8.6,No,8,5,8,CORE,Yes,Yes,No,15-Oct
+2/28/2023 9:50,Male,CSDP,7.72,No,7,8,9,"SDE, DATA SCIENTIST/ANALYST, CORE",Yes,No,No,
+2/28/2023 9:53,Male,OENA,8.5,No,7,5,8,"DATA SCIENTIST/ANALYST, CORE",Yes,No,Yes,
+2/28/2023 9:59,Male,Instrumentation and Signal Processing,8.9,No,8,4,8,CORE,Yes,No,Yes,more than 25
+2/28/2023 10:00,Male,Electrical engineering ,8.5,No,7,7,8,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,No,less than 10
+2/28/2023 10:04,Male,CSE,7.8,No,6,9,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-20
+2/28/2023 10:11,Male,Land and Water Resources Engineering,9.21,No,9,8,9,"DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,No,
+2/28/2023 11:11,Male,Industrial and Systems Engineering ,8.42,No,9,7,8,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,Yes,15-Oct
+2/28/2023 11:54,Male,CSE,8.56,No,7,8,7,"SDE, DATA SCIENTIST/ANALYST, CORE",Yes,No,Yes,15-20
+2/28/2023 13:01,Male,CSDP,8.67,No,6,7,7,"SDE, DATA SCIENTIST/ANALYST",No,No,Yes,15-20
+2/28/2023 20:13,Male,Mathematics ,8.7,No,7,7,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+2/28/2023 20:15,Male,Mathematics ,8.6,No,7,6,8,"SDE, DATA SCIENTIST/ANALYST",Yes,Yes,Yes,15-Oct
+2/28/2023 20:34,Male,CSDP,8.86,No,7,6,8,SDE,No,No,Yes,15-Oct
+2/28/2023 20:43,Male,CSDP,7.96,No,8,8,9,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,15-Oct
+2/28/2023 20:45,Male,Computer Science and Data Processing,8.88,No,9,7,6,SDE,Yes,No,Yes,15-Oct
+2/28/2023 20:50,Male,Computer Science and Data Processing ,8.35,No,7,6,8,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,15-Oct
+2/28/2023 21:01,Male,Atmospheric Sciences ,8.4,No,9,8,9,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+2/28/2023 21:13,Male,Ocean Engineering And Naval Architecture ,8.36,No,7,7,8,"SDE, DATA SCIENTIST/ANALYST, CORE",Yes,No,Yes,less than 10
+3/1/2023 0:29,Male,IMSC,8.5,No,6,7,7,"SDE, DATA SCIENTIST/ANALYST, MANAGEMENT",Yes,Yes,Yes,20-25
+3/1/2023 0:31,Male,Computational Mathematics ,8.5,No,9,2,3,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-20
+3/1/2023 0:32,Male,Maths,9,Yes,10,10,10,"SDE, DATA SCIENTIST/ANALYST",Yes,Yes,Yes,more than 25
+3/1/2023 0:57,Male,H,S,Yes,1,1,1,"SDE, DATA SCIENTIST/ANALYST",Yes,Yes,Yes,more than 25
+3/1/2023 1:59,Male,Aerospace,8.98,No,8,8,8,CORE,Yes,Yes,Yes,15-20
+3/1/2023 8:01,Male,CSDP,9.68,No,8,8,6,SDE,No,No,Yes,more than 25
+3/1/2023 17:57,Male,OR,8.5,No,7,6,6,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,less than 10
+3/1/2023 17:59,Male,CSDP,8.6,No,8,8,7,SDE,Yes,No,Yes,less than 10
+3/1/2023 18:04,Male,CSDP,8.7,No,7,5,6,SDE,No,No,Yes,15-Oct
+3/1/2023 18:06,Male,CSDP,9.21,No,8,8,8,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,20-25
+3/1/2023 20:42,Female,Wireless and communication ,8.42,No,8,2,8,CORE,Yes,No,Yes,15-Oct
+3/1/2023 20:48,Female,Wireless Communications and Networks,8.8,No,9,8,8,CORE,Yes,No,Yes,20-25
+3/1/2023 21:04,Male,Wireless Communication and Networks,9.25,No,8,7,9,CORE,Yes,Yes,Yes,20-25
+3/1/2023 21:24,Male,Wireless Communications and Networks,8.56,No,7,3,2,CORE,Yes,No,Yes,15-Oct
+3/1/2023 22:00,Male,Maths and computing ,8.27,No,9,7,6,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,Yes,15-Oct
+3/1/2023 22:17,Male,Mathematics ,7.2,No,8,6,8,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-Oct
+3/1/2023 22:25,Male,Mathematics and scientific computing ,7.98,No,7,6,7,DATA SCIENTIST/ANALYST,Yes,Yes,No,less than 10
+3/1/2023 22:40,Male,MBA(Makreting),7.8,No,8,5,6,"DATA SCIENTIST/ANALYST, MANAGEMENT",Yes,Yes,Yes,less than 10
+3/1/2023 22:45,Male,Mathematics ,6.86,No,9,7,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/1/2023 23:09,Male,Mathematics and Scientific Computing ,6.86,No,8,7,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/1/2023 23:33,Male,CSE,6.65,No,8,6,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/1/2023 23:59,Male,Mathematics and scientific  computing,7,No,9,8,8,DATA SCIENTIST/ANALYST,No,No,Yes,less than 10
+3/2/2023 0:10,Female,M.Sc. Mathematics and Scientific Computing,8.6,No,2,3,3,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/2/2023 0:34,Male,Aerospace Engineering ,8.89,No,8,6,6,SDE,Yes,No,Yes,15-Oct
+3/2/2023 1:49,Male,Mathematics & scientific computing ,7.75,No,8,7,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-20
+3/2/2023 8:12,Male,Aerospace,8.8,No,6,2,3,CORE,No,No,No,
+3/2/2023 10:29,Male,Structural Engineering ,8.72,No,8,6,8,CORE,Yes,No,Yes,less than 10
+3/2/2023 12:37,Male,Mechanical ,9.06,No,7,4,9,DATA SCIENTIST/ANALYST,Yes,No,No,less than 10
+3/2/2023 13:20,Male,Mca,6.75,No,8,10,8,SDE,Yes,Yes,Yes,15-Oct
+3/2/2023 17:24,Female,Applied Mathematics ,9.04,No,3,6,5,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/2/2023 17:33,Male,Applied Mathematics,7.93,No,8,5,10,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/2/2023 17:33,Male,Applied Mathematics ,9.25,No,7,7,7,CORE,No,No,Yes,15-Oct
+3/2/2023 17:35,Male,Msc in mathematics and scientific computing ,6.07,No,7,7,6,DATA SCIENTIST/ANALYST,Yes,Yes,No,
+3/2/2023 17:54,Male,Mathematics and Scientific Computing,7.29,No,9,8,8,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-Oct
+3/2/2023 17:54,Female,Applied Mathematics ,8.22,No,8,6,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/2/2023 17:57,Female,Mathematics ,7.55,No,7,8,9,DATA SCIENTIST/ANALYST,Yes,No,No,less than 10
+3/2/2023 17:58,Female,Mathematics ,7.55,No,7,8,9,DATA SCIENTIST/ANALYST,Yes,No,No,less than 10
+3/2/2023 18:01,Male,Mathematics and Scientific computing ,8.08,No,7,6,6,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-Oct
+3/2/2023 18:06,Male,MSc Mathematics and Scientific Computing,6.94,No,7,9,9,SDE,Yes,No,No,
+3/2/2023 18:12,Female,applied mathematics ,7.61,No,7,7,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/2/2023 18:13,Female,MSc. Mathematics and Scientific Computing ,8.74,No,7,7,7,SDE,Yes,No,Yes,15-Oct
+3/2/2023 18:31,Female,Applied Math,7.32,No,9,7,8,DATA SCIENTIST/ANALYST,Yes,No,No,
+3/2/2023 18:55,Female,Mathematics and scientific computing,7.9,No,8,7,7,SDE,Yes,No,Yes,less than 10
+3/2/2023 19:07,Male,Civil transport ,8.1,No,7,1,10,CORE,Yes,No,No,
+3/2/2023 19:49,Male,Msc applied mathematics ,7.95,No,7,7,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/2/2023 21:16,Male,Mathematics,7.56,No,8,6,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/2/2023 21:20,Male,Mm3,8,No,2,1,1,CORE,No,No,Yes,more than 25
+3/2/2023 21:22,Male,Muzammil,8.34,No,9,7,9,"SDE, MANAGEMENT, CORE",Yes,Yes,Yes,15-Oct
+3/2/2023 21:25,Male,Mathematics And Computing,6.2,No,8,7,8,SDE,No,Yes,No,more than 25
+3/2/2023 21:29,Male,CSE ,9.85,No,9,9,9,CORE,Yes,Yes,Yes,more than 25
+3/2/2023 21:30,Male,Applied mathematics ,8.07,No,7,7,6,SDE,Yes,No,Yes,less than 10
+3/2/2023 21:31,Male,Applied geophysics,9,No,10,10,10,"SDE, DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,Yes,more than 25
+3/2/2023 21:33,Male,mathematics and computing,7,No,5,5,5,"SDE, CORE",No,No,No,
+3/2/2023 21:34,Male,Mathematics and computing ,6.4,No,6,5,4,SDE,No,No,No,
+3/2/2023 21:42,Male,Statistics ,6.43,No,8,2,7,DATA SCIENTIST/ANALYST,Yes,No,No,
+3/2/2023 21:47,Male,Mathematics,8.55,No,8,1,7,CORE,Yes,No,Yes,15-Oct
+3/2/2023 22:50,Male,Csdp,9.6,No,7,7,8,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,more than 25
+3/2/2023 22:53,Male,Mathematics,8.85,No,7,8,8,SDE,No,No,No,
+3/2/2023 23:01,Male,Civil,7.56,No,8,7,8,"SDE, DATA SCIENTIST/ANALYST",No,No,Yes,less than 10
+3/3/2023 1:02,Male,Mathematics and Computing,6.6,No,6,5,7,SDE,No,No,No,
+3/3/2023 3:07,Male,CSE,7.4,No,8,8,8,SDE,Yes,Yes,Yes,15-Oct
+3/3/2023 8:05,Female,Applied mathematics,8.72,No,8,6,4,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/3/2023 10:23,Male, CIVIL,8.49,No,8,7,9,"SDE, DATA SCIENTIST/ANALYST, CORE",Yes,Yes,Yes,less than 10
+3/3/2023 13:43,Male,Agriculture,8.79,No,8,7,8,DATA SCIENTIST/ANALYST,Yes,Yes,No,
+3/3/2023 16:28,Male,G S Sanyal School of Telecommunications,9.04,No,6,3,7,CORE,Yes,No,Yes,more than 25
+3/3/2023 18:29,Male,Energy Science and Engineering ,7.08,No,8,5,7,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-20
+3/3/2023 19:02,Female,Architecture and regional planning ,9,No,7,3,7,CORE,No,No,No,15-20
+3/3/2023 19:52,Male,cse,8.7,No,9,8,8,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,more than 25
+3/4/2023 2:02,Male,Cse,8.23,No,7,8,9,SDE,Yes,Yes,No,15-20
+3/4/2023 11:15,Male,CSE,8.51,No,7,7,8,"SDE, DATA SCIENTIST/ANALYST",Yes,Yes,Yes,15-20
+3/4/2023 11:17,Male,MME,8.9,No,10,9,10,"DATA SCIENTIST/ANALYST, CORE",Yes,No,No,
+3/4/2023 11:17,Male,ECE,8.8,No,8,8,8,CORE,Yes,No,Yes,more than 25
+3/4/2023 11:17,Male,GeoTechnical Engineering (Civil),8.17,No,7,3,9,DATA SCIENTIST/ANALYST,Yes,No,Yes,less than 10
+3/4/2023 11:19,Male,Materials Science and Engineering,8.35,No,8,8,9,DATA SCIENTIST/ANALYST,Yes,Yes,No,
+3/4/2023 11:19,Male,Materials science and engineering ,8.43,No,8,8,8,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,No,15-Oct
+3/4/2023 11:22,Male,VLSI EECE,9.56,No,8,8,8,CORE,Yes,No,Yes,more than 25
+3/4/2023 11:24,Male,Cse,6.88,No,7,6,8,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,15-Oct
+3/4/2023 11:24,Male,Mechanical,8.93,No,5,3,7,CORE,Yes,No,Yes,15-Oct
+3/4/2023 11:25,Male,MVLSI(ECE) ,9.68,No,7,4,4,CORE,No,No,Yes,20-25
+3/4/2023 11:25,Male,Mechanical engineering ,8.87,No,10,8,9,CORE,Yes,Yes,Yes,15-20
+3/4/2023 11:27,Male,Microelectronics and VLSI Design ,8.7,No,7,6,8,CORE,Yes,No,Yes,more than 25
+3/4/2023 11:27,Male,MBA,7.8,No,9,4,8,MANAGEMENT,Yes,Yes,Yes,20-25
+3/4/2023 11:29,Male,COMPUTER SCIENCE AND DATA PROCESSING,7.72,No,7,8,9,"SDE, DATA SCIENTIST/ANALYST",Yes,No,No,less than 10
+3/4/2023 11:30,Male,Control System Engineering,7.83,No,7,6,8,"DATA SCIENTIST/ANALYST, CORE",Yes,No,Yes,15-20
+3/4/2023 11:30,Male,Law,7.8,No,9,3,8,CORE,Yes,Yes,Yes,less than 10
+3/4/2023 11:31,Male,Architecture and regional planning ,8.4,No,7,6,8,"SDE, DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,No,
+3/4/2023 11:32,Male,Water Engineering and Management ,8.1,No,6,5,5,DATA SCIENTIST/ANALYST,Yes,No,No,15-Oct
+3/4/2023 11:33,Male,Mechanical Systems Design,8.74,No,8,5,9,CORE,Yes,Yes,No,15-Oct
+3/4/2023 11:34,Male,  Mechanical Manufacturing ,8.22,No,8,2,9,CORE,Yes,No,Yes,15-Oct
+3/4/2023 11:37,Male,CHEMICAL ENGINEERING ,8.96,No,7,8,6,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,less than 10
+3/4/2023 11:44,Male,SMST,8.28,No,5,8,8,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-20
+3/4/2023 11:44,Male,Physics ,8.89,No,10,5,9,"DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,No,
+3/4/2023 11:51,Male,Architecture and Regional Planning,8.96,No,8,5,9,CORE,Yes,Yes,No,less than 10
+3/4/2023 11:53,Male,MME,8.58,No,7,5,8,"MANAGEMENT, CORE",No,Yes,No,
+3/4/2023 11:54,Male,ECE,8.65,No,10,5,7,CORE,Yes,No,No,
+3/4/2023 11:57,Male,Mechanical ,7.71,No,6,6,8,"DATA SCIENTIST/ANALYST, CORE",Yes,Yes,No,15-Oct
+3/4/2023 11:58,Male,"LLB Final year, RGSOIPL ",7.76,No,7,1,6,CORE,Yes,Yes,Yes,less than 10
+3/4/2023 12:01,Male,Industrial engineering and management,9.27,No,5,5,6,DATA SCIENTIST/ANALYST,Yes,No,Yes,15-Oct
+3/4/2023 12:05,Male,Industrial engineering and Management ,9.11,No,7,8,6,DATA SCIENTIST/ANALYST,Yes,Yes,Yes,15-20
+3/4/2023 12:05,Male,Computer Science and Data Processing ,8.13,No,6,7,6,"SDE, DATA SCIENTIST/ANALYST",Yes,No,Yes,
+3/4/2023 12:06,Male,IEM,9.16,No,7,7,8,"DATA SCIENTIST/ANALYST, MANAGEMENT, CORE",Yes,Yes,Yes,15-20
+3/4/2023 12:10,Male,Mechanical Engineering ,9.26,No,6,5,8,CORE,Yes,Yes,Yes,15-20
+3/4/2023 12:16,Male,Architecture and regional Planning ,8.49,No,8,2,7,CORE,Yes,Yes,No,15-Oct
+3/4/2023 12:18,Male,Chemical ,7.86,No,10,7,8,MANAGEMENT,No,No,Yes,15-Oct
+3/4/2023 12:19,Male,Civil,8.94,No,8,2,8,CORE,Yes,Yes,Yes,less than 10
+3/4/2023 12:42,Male,Chemical Engineering ,8.34,No,8,6,9,"DATA SCIENTIST/ANALYST, CORE",Yes,No,No,20-25
+3/4/2023 12:50,Male,CSDP,8.65,No,6,6,8,SDE,No,No,Yes,15-Oct
